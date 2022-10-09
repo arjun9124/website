@@ -1,0 +1,41 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "style"}}
+<!-- nothing -->
+{{ end }}
+{{ define "header" }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+{{ define "script" }}
+	<link rel='stylesheet' href='/single.css' type='text/css'>
+{{ end }}
+{{ define "main" }}
+	<main>
+		<article>
+			
+			<b>{{ .Date.Format (default "Monday, Jan 2, 2006" .Site.Params.dateFmt) }}</b>
+		       {{ range .Params.tags }}
+		           <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        	       {{ end }}
+
+			<p>
+				{{ .Content }}
+			</p>
+		</article>
+		<p> by <strong><a href="https://arjun9124.github.io/">Arjun</a></p></strong> </p>
+		{{ partial "nextprev.html" . -}}
+		{{ partial "sidebar.html" . }}
+
+	</main>
+	{{ end }}
+
+{{ define "footer"}}
+<div class="footer"><hr>
+	<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}"><b>{{ if .Site.Copyright }}{{ .Site.Copyright }}{{ else }}{{ .Site.Title }}{{ end }}</b></a>.
+	{{- range .Site.Menus.footer }}
+	<a href="{{ .URL }}"><b>{{ .Name }}</b></a>.
+        {{- end }}
+	</p>
+</div>
+{{ end }}

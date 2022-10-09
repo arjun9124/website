@@ -1,0 +1,133 @@
+html {
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	color: #333;
+	background-image: url("files/bg0.png");
+	background-repeat: repeat-y;
+	background-position: right top;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+#header{
+
+	padding: 0.7ex 0.7ex 0.7ex 2em;
+	text-align:  left;
+	border: dashed 2px;
+	border-color: cadetblue;
+	border-radius: 30px 30px 0px 0px;
+	border-bottom-style: none;
+	background: rgba(50,50,50,0.9);
+	margin-bottom: 10px;
+
+}
+
+
+
+@font-face {font-family: Pixellari; src: url("files/Pixellari.ttf"); }
+
+body {
+	font-family: sans-serif;
+	/* background: linear-gradient(indigo, darkslategray) fixed ; */
+	/* background: powderblue ; */
+}
+
+main {
+	padding: 10px 10px 10px 10px;
+	background: rgba(50,50,50,0.9);
+	border: dashed 2px ;
+	border-color: cadetblue;
+	border-top-style: none;
+	border-bottom-style: none;
+
+}
+
+
+
+h1, h2, h3, strong {color:lightgrey; font-family: Pixellari, sans-serif; }
+h2 { padding: 10px 10px 0px 0px; margin: 0px;}
+update, strong, sup {color: lightgrey; }
+li, p, ul {color: lightgrey; }
+z {color: deepskyblue; font-family: Pixellari;}
+a {color: deepskyblue; }
+a:hover {color: lightseagreen; }
+
+
+/* Style page content */
+.main {
+	padding: 10px 10px;
+	margin: 10px 10px 10px 10px;
+}
+
+#todo {
+	height:200px;
+
+	overflow: auto;
+	border: dashed 2px;
+	border-color: lightskyblue;
+	border-radius: 7px;
+	padding: 1.5em;
+	margin: 20px 10px 10px 10px;
+}
+
+/* ENTRY CSS */
+.entry {
+	border-left: 10px solid darkslategray;
+	padding: 0px 10px 0px 10px;
+	border-radius: 0 30px 30px 0;
+	margin-bottom: 20px;
+	background-color: lightblue;
+	}
+
+.entry h2 { margin: 5px auto 2px auto; color: #222222; padding: 10px 10px 0px 0px;}
+.entry a {color: midnightblue;}
+.entry a:hover {color: turquoise;}
+.entry strong {color:black;}
+
+
+
+#footer{
+	margin-top: 10px;
+	text-align: center;
+	border: dashed 2px;
+	border-color: cadetblue;
+	border-top-style: none;
+	border-radius: 0px 0px 30px 30px;
+	background: rgba(50,50,50,0.9);
+
+}
+
+
+#imz{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: dashed 2px;
+	border-color: lightskyblue;
+	border-radius: 7px;
+}
+/*  */
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+/* #nextprev {
+	/* The container for both the previous and next articles. 
+} */
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}

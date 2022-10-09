@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<main>
+		
+	<div id="imz" style="margin-right: 25px;"><img src="files/techarj.jpg" onmouseover="this.src='files/INTJStare.png';" onmouseout="this.src='files/techarj.jpg';" width="270ex" border-radius: 7px;><br><z><center>Technical Arjun<br><i>felt technical, might delete later</i></center></z></div>
+		<p>Hello, I am Arjun. This is my webpage. Proudly made with HTML. To know more about me, please visit <a href="about.html">About Me</a> <br> You can also view my <a href="blog.html">blog</a>.
+		<!-- {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		{{ range $paginator.Pages }}
+			{{ .Render "summary" }}
+		{{ end }}
+	{{ partial "pagination.html" . }} -->
+	</main>
+{{ end }}

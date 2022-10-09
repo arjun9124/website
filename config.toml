@@ -1,0 +1,56 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Arjun's Webpage"
+theme = 'hago'
+
+# Parameters
+[params]
+    subtitle = "welcome to my webpage"
+    dateFmt = "Jan 2, 2006"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "blog"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 2
+
+  [[menu.main]]
+        identifier = "Projects"
+        name = "Projects"
+        url = "/Projects/"
+        weight = 4
+
+  [[menu.main]]
+        identifier = "Photography"
+        name = "Photography"
+        url = "/photography/"
+        weight = 3
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 5
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 6
+
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/arjun9124"
+        weight = 1
+
+

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+
+{{ block "script" . }}
+<script>
+
+function getStylesheet() {
+      var currentTime = new Date().getHours();
+      if (1 <= currentTime&&currentTime < 6) {
+       document.write("<link rel='stylesheet' href='/style3.css' type='text/css'>");
+      }
+      if (6 <= currentTime&&currentTime < 12) {
+       document.write("<link rel='stylesheet' href='/style0.css' type='text/css'>");
+      }
+      if (12 <= currentTime&&currentTime < 16) {
+       document.write("<link rel='stylesheet' href='/style1.css' type='text/css'>");
+      }
+      if (16 <= currentTime&&currentTime < 20) {
+       document.write("<link rel='stylesheet' href='/style2.css' type='text/css'>");
+      }
+      if (20 <= currentTime&&currentTime < 23) {
+       document.write("<link rel='stylesheet' href='/style3.css' type='text/css'>");
+      }
+      if (23 <= currentTime&&currentTime < 1) {
+	document.write("<link rel='stylesheet' href='/style3.css' type='text/css'>");
+	}
+}
+
+getStylesheet();
+
+</script>
+
+{{ end }}
+<noscript><link href="style.css" rel="stylesheet"></noscript>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	{{ block "style" . }}
+      <style type=text/css> body{font-family:monospace; font-size: 1vw;} time{color: whitesmoke;} #bar{ height: 100px; float: left;} #nextprev{  height: 100px; float: right;} #spacer{height: 100px;}</style>
+	{{ end }}
+      <title>{{ .Title }} </title>
+      
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	{{ with .OutputFormats.Get "RSS" -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{- end }}
+</head>
+<body>
+	{{ block "header" . }}
+      {{ partial "header" . }}
+      {{ end }}
+	{{ block "main" . }}{{ end }}
+      {{ block "footer" . }}
+	{{ partial "footer" . }}
+      {{ end }}
+</body>
+</html>

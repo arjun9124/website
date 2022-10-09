@@ -1,0 +1,24 @@
+ 
+html {
+	max-width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	color: #333;
+	padding-bottom: 200px;
+	background: powderblue;
+
+}
+
+body {
+	font-family: sans-serif;
+	margin-bottom: 100px ;
+	padding: 20px;
+
+}
+
+
+h2 { padding: 10px 10px 0px 0px; margin: 0px;}
+
+a {color: royalblue; }
+a:hover {color: lightskyblue; }

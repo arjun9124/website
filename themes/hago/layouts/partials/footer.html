@@ -1,0 +1,10 @@
+<div id="footer">
+	
+<z> <img src="https://anlucas.neocities.org/homicide.gif"> <img src="https://anlucas.neocities.org/camtime.png"> <a href="https://anlucas.neocities.org"><img src="https://anlucas.neocities.org/anlucasbutton.gif"></a> <img src="https://anlucas.neocities.org/penguin.gif" height="31" width="88px">	<a href="https://yesterweb.org"><img src="https://yesterweb.org/img/button.png"></a> <a href="https://librewolf.net"><img src="files/librewolf.png"> <a href="https://yesterweb.org/no-to-web3/"><img src="https://auzziejay.com/images/noweb32.gif"></a></z>
+<hr>
+	<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}"><b>{{ if .Site.Copyright }}{{ .Site.Copyright }}{{ else }}{{ .Site.Title }}{{ end }}</b></a>.
+	{{- range .Site.Menus.footer }}
+	<a href="{{ .URL }}"><b>{{ .Name }}</b></a>.
+        {{- end }}
+	</p>
+</div>

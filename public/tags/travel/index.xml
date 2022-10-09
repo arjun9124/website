@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on Arjun&#39;s Webpage</title>
+    <link>http://example.org/tags/travel/</link>
+    <description>Recent content in travel on Arjun&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 13:52:40 +0530</lastBuildDate><atom:link href="http://example.org/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shimla Trip 2015</title>
+      <link>http://example.org/photography/2022-09-09-shimla-trip-2015/</link>
+      <pubDate>Fri, 09 Sep 2022 13:52:40 +0530</pubDate>
+      
+      <guid>http://example.org/photography/2022-09-09-shimla-trip-2015/</guid>
+      <description>Shimla Trip 2015 [[link&amp;mdash;standalone]]{.small} In this inaugratory post of this photography blog (important enough to be given a seperate page rather than a simple tag on the communal tags page), I shall be posting some pictures from my 2015 trip to Shimla, Himachal Pradesh, India. Clicked with a Sony point and shoot camera almost as old as me with a puny yet very high quality 5 mega pixel sensor these pics might even bring many mordern AI powered triple quadruple pentuple whatever cameras to shame.</description>
+    </item>
+    
+  </channel>
+</rss>
