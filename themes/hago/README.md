@@ -1,9 +1,12 @@
-# smol
+# hago
 
-A minimal, monospaced blogging theme for Hugo that respects your privacy and is easy on your bandwidth. A demo can be found at https://smol-demo.morph.sh.
+A minimal, monospaced blogging theme for Hugo that isnt particularly lightweight but isnt bloated either. 
+## To be consise, chaotic neutral.
 
-smol is based on [Blank](https://github.com/Vimux/Blank) created by [Vimux](https://github.com/Vimux).
+Live useage can be seen at https://arjun9124.github.io
 
+hago is based on smol createrd by [colorchresta](https://github.com/colorchestra/smol)which is based on [Blank](https://github.com/Vimux/Blank) created by [Vimux](https://github.com/Vimux).
+ 
 
 ![Screenshot](/images/tn.png)
 
@@ -11,7 +14,6 @@ smol is based on [Blank](https://github.com/Vimux/Blank) created by [Vimux](http
 
 - No JavaScript
 - No Google spyware or tracking of any kind
-- No other external dependencies, embedded fonts or comment sections
 - Dark mode support (depending on your OS's setting)
 
 ## Installation
@@ -19,13 +21,13 @@ smol is based on [Blank](https://github.com/Vimux/Blank) created by [Vimux](http
 In your Hugo site `themes` directory, run:
 
 ```
-git clone https://github.com/colorchestra/smol
+git clone https://github.com/arjun9124/website/tree/main/themes/hago
 ```
 
-Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `smol`.
+Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to ``.
 
 ```
-theme = "smol"
+theme = "hago"
 ```
 
 Lastly, add the following lines to your `config.toml` to set site parameters and make use of all the menu entries in the header and footer sections if you need them.
@@ -89,4 +91,4 @@ Have you found a bug or got an idea for a new feature? Feel free to use the [iss
 
 ## License
 
-This theme is released under the [MIT license](https://github.com/colorchestra/smol/blob/master/LICENSE).
+This theme is released under the [GNU GPL v3 license](https://github.com/arjun9124/website/tree/main/themes/hago/LICENSE.md).
