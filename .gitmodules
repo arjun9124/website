@@ -1,0 +1,3 @@
+[submodule "themes/smaal"]
+	path = themes/smaal
+	url = https://github.com/arjun9124/smaal.git
