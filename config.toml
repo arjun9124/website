@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "smol"
+theme = "smaal"
 # Parameters
 [params]
     subtitle = "Your blog subtitle goes here!"
