@@ -3,13 +3,17 @@ title: "The Only Day Your Dad Will Ever Ask You To Watch TV"
 date: 2023-04-30T17:30:09+05:30
 slug: republic-day
 type: posts
-draft: true
+draft: false
 categories:
   - Culture
   - Life/Zindagi/General
 tags:
-  - default
+  - Life
+  - Culture
+  - Family
+  
 ---
+
 _This post was originally published on 27 January 2022 on my old blog. This is a revised version of the post._  
 
 Republic Day, its like the only time of the year when your dad asks you to watch TV. Or shall I say that wants you to watch TV with him. For all my life republic day has always been a father son moment type of a thing. Spotting celebrity faces in the republic day crowd, to guessing the aircraft names during fly-by's, and having the annual moment where the Arjun tank comes on screen during the parade (and my dad has to specifically inform me about it's arrival) has always kind of been how I've had and seen Republic Day. Its one of the few times when watching TV for a few hours isn't wasting your time in your dad's eyes, because of course patriotism comes before studies doesn't it ?
