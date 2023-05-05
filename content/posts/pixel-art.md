@@ -1,6 +1,6 @@
 ---
 title: "Pixel Art"
-date: 2023-04-30T17:30:47+05:30
+date: 2022-04-01T17:30:47+05:30
 slug: pixel-art
 type: posts
 draft: false

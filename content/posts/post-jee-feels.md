@@ -1,6 +1,6 @@
 ---
 title: "Post Jee Feels"
-date: 2023-04-30T17:31:18+05:30
+date: 2022-06-17T17:31:18+05:30
 slug: post-jee-feels
 type: posts
 draft: false

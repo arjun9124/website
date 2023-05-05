@@ -1,6 +1,6 @@
 ---
 title: "Parantha Teir List"
-date: 2023-04-30T17:31:03+05:30
+date: 2022-02-06T17:31:03+05:30
 slug: parantha
 type: posts
 draft: false
