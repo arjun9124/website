@@ -4,31 +4,22 @@ date: 2023-05-04T20:21:32+05:30
 draft: false
 ---
 
-## Who am I
-
 Hi, I am Arjun. I live in Delhi, India. I am currently in that akward phase in life where you have begun college and havent figured out what to do. I am a student of Engineering.  
 My hobbies include but are not limited to:
 
 * photography
-
 * DIY'ing
-
 * reading
-
 * going on long walks
-
 * wasting my time on this bootleg website
-
 * making miserable about me pages
-
 * papercraft
 
 
 ## What's the deal with this website ?
 
-  
 * It's [minimalist.](https://motherfuckingwebsite.com/) Or so it seems. 
-* This website is how I choose to express myself in an internet dominated by high frequency social media where "clarity" is a non existant term.s
+* This website is how I choose to express myself in an internet dominated by high frequency social media where "clarity" is a non existant term.
 * This page is my form of self expression in an internet where expression is a commodity constrained by 'alorgithms', megacorps, governments and NPCs.
 
 This is my personal wepbage. As I have already stated, this webpage has been mantained by me as a form of self expression. I find the medium of a selfhosted webpage/blog/social media to be much superior to any propriteary social media (refer 1964 by George Orlando). While many people host and mantain such personal websites some being quite morden and some being straight out of the Y2K era, I try to keep a balanced approach.  
