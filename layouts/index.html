@@ -26,7 +26,7 @@ Hey there, I am Arjun. Welcome to my webpage. <a href="about/">(more)</a>
 <h1>Latest photos</h1>
 <div class="image-grid">
 {{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+    {{ range first 6 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}
