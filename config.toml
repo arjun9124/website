@@ -25,5 +25,6 @@ theme = "hugo-theme-console"
   name = "photos/"
   url = "photos/"
 
-
-
+  [[params.navlinks]]
+  name = "categories/"
+  url = "categories/"
