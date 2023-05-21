@@ -2,3 +2,6 @@
 	path = themes/smaal
 	url = https://github.com/arjun9124/smaal.git
 
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
