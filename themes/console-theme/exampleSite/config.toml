@@ -1,9 +1,7 @@
-baseURL = 'https://cipirit.netlify.app/'
-languageCode = 'en-us'
-title = "arjun's webpage"
-theme = "console-theme"
-
-
+baseurl = "https://example.com/"
+title = "console-demo"
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
@@ -11,7 +9,7 @@ theme = "console-theme"
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
-  animateStyle = "animated zoomIn fast"
+  animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
   name = "about/"
@@ -20,11 +18,7 @@ theme = "console-theme"
   [[params.navlinks]]
   name = "posts/"
   url = "posts/"
-
+  
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
-
-  [[params.navlinks]]
-  name = "categories/"
-  url = "categories/"
