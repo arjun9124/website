@@ -1,11 +1,270 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://cipirit.netlify.app/</loc>
-  </url><url>
-    <loc>https://cipirit.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://cipirit.netlify.app/tags/</loc>
-  </url>
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/aquisition-of-audiophillic-equipment/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/audiophillia/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/consoom/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/music/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/music/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/</loc>
+            <lastmod>2023-05-11T19:17:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/casio-db36-inverted-display-mod/</loc>
+            <lastmod>2023-05-05T10:21:20+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/</loc>
+            <lastmod>2023-05-05T10:21:20+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/about/</loc>
+            <lastmod>2023-05-04T20:21:32+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/</loc>
+            <lastmod>2023-05-04T11:38:02+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/neem/</loc>
+            <lastmod>2023-03-05T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/college/</loc>
+            <lastmod>2023-01-28T17:31:10+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/default/</loc>
+            <lastmod>2023-01-28T17:31:10+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/default/</loc>
+            <lastmod>2023-01-28T17:31:10+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/college/</loc>
+            <lastmod>2022-06-17T17:31:18+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/jee/</loc>
+            <lastmod>2022-06-17T17:31:18+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/post-jee-feels/</loc>
+            <lastmod>2022-06-17T17:31:18+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/school/</loc>
+            <lastmod>2022-06-17T17:31:18+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/art/</loc>
+            <lastmod>2022-04-01T17:30:47+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/matrix/</loc>
+            <lastmod>2022-04-01T17:30:47+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/pixel-art/</loc>
+            <lastmod>2022-04-01T17:30:47+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/pixel-art/</loc>
+            <lastmod>2022-04-01T17:30:47+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/retro/</loc>
+            <lastmod>2022-04-01T17:30:47+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/culture/</loc>
+            <lastmod>2022-02-17T17:30:54+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/mechanical-watch/</loc>
+            <lastmod>2022-02-17T17:30:54+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/food/</loc>
+            <lastmod>2022-02-06T17:31:03+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/parantha/</loc>
+            <lastmod>2022-02-06T17:31:03+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/culture/</loc>
+            <lastmod>2022-01-27T17:30:09+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/family/</loc>
+            <lastmod>2022-01-27T17:30:09+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/life/</loc>
+            <lastmod>2022-01-27T17:30:09+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/posts/republic-day/</loc>
+            <lastmod>2022-01-27T17:30:09+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/tree/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/image/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/physics/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/sharatchandra/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/categories/life/zindagi/general/</loc>
+        </url>
+        
+    
 </urlset>
