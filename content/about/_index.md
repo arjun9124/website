@@ -3,6 +3,7 @@ title: "About"
 date: 2023-05-04T20:21:32+05:30
 draft: false
 ---
+![pfpiguess.gif](pfpiguess.gif "This is the title attribute")
 
 Hi, I am Arjun. I live in Delhi, India. I am currently in that akward phase in life where you have begun college and havent figured out what to do. I am a student of Engineering.  
 My hobbies include but are not limited to:

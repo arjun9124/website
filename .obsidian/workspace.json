@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "495bc5e0a6cd89f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0251161f9682bfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6ed6d57b0bc7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/short-video-format.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9d6d615c203e1d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8ebb97a21f9247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00352da2b4d2e4ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81c3af4b689c6e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11952e7ed017740c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72ae96ac5879ec29",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d41b8f9a30379ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "619eac1cab04c602",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/short-video-format.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e60ee4c1d2651919",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/short-video-format.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47336c54c6791ead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd6039297ae2536e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/short-video-format.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e6ed6d57b0bc7d4",
+  "lastOpenFiles": [
+    "content/posts/the-only-day-your-dad.md",
+    "content/posts/short-video-format.md",
+    "content/posts/Short Video Format.md",
+    "archetypes/default.md"
+  ]
+}
