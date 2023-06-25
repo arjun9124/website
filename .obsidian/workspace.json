@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/make-youtube-distraction-free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/make-youtube-distraction-free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/make-youtube-distraction-free.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e099acb8f40b48d9",
-  "lastOpenFiles": []
+  "active": "1aaefbf8ac76cdea",
+  "lastOpenFiles": [
+    "content/posts/make-youtube-distraction-free.md",
+    "Untitled.md"
+  ]
 }

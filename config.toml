@@ -28,3 +28,7 @@ theme = "console-theme"
   [[params.navlinks]]
   name = "categories/"
   url = "categories/"
+
+ 
+[markup.goldmark.renderer]
+ unsafe = true

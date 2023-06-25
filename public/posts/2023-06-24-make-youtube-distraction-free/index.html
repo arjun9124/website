@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>arjun&#39;s webpage/posts/2023-06-24-make-youtube-distraction-free/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="https://cipirit.netlify.app/hugo-theme-console/css/terminal-0.7.2.min.css">
+    <link rel="stylesheet" href="https://cipirit.netlify.app/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="https://cipirit.netlify.app/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Make Youtube Distraction Free" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cipirit.netlify.app/posts/2023-06-24-make-youtube-distraction-free/" /><meta property="article:published_time" content="2023-06-24T14:05:25+05:30" />
+
+
+
+<meta name="twitter:title" content="Make Youtube Distraction Free"/>
+<meta name="twitter:description" content="Over the years, it has become increasingly hard to focus on the web. With websites and serveices now being designed to make you shuttle from one red dot to another, it has become necessary for us users to preserve our integrities as users and to not become consumers. This article will guide you to removing all sorts of distractions from YouTube, a popular video sharing website which houses a library of videos ranging from casual entertainment to perhaps the best lectures in calculus."/>
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="https://cipirit.netlify.app/" class="no-style site-name">arjun&#39;s webpage</a>:~# 
+              <a href='https://cipirit.netlify.app/posts'>posts</a>/<a href='https://cipirit.netlify.app/posts/2023-06-24-make-youtube-distraction-free'>2023-06-24-make-youtube-distraction-free</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                <li><a href="https://cipirit.netlify.app/about/" typeof="ListItem">about/</a></li>
+                
+                <li><a href="https://cipirit.netlify.app/posts/" typeof="ListItem">posts/</a></li>
+                
+                <li><a href="https://cipirit.netlify.app/photos/" typeof="ListItem">photos/</a></li>
+                
+                <li><a href="https://cipirit.netlify.app/categories/" typeof="ListItem">categories/</a></li>
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container animated zoomIn fast" >
+        
+<h1>Make Youtube Distraction Free</h1>
+
+Jun. 24, 2023
+
+
+<br/><br/>
+<p>Over the years, it has become increasingly hard to focus on the web. With websites and serveices now being designed to make you shuttle from one red dot to another, it has become necessary for us users to preserve our integrities as users and to not become consumers.
+This article will guide you to removing all sorts of distractions from YouTube, a popular video sharing website which houses a library of videos ranging from casual entertainment to perhaps the best lectures in calculus. For the ones who use this as a tool to study, it is not possible to use the platform while keeping together their focus on what&rsquo;s important.</p>
+<p>By following these steps, you can:</p>
+<ul>
+<li>remove all advertisements</li>
+<li>remove all comments</li>
+<li>remove all recommendations</li>
+<li>remove all clickbait
+from YouTube.</li>
+</ul>
+<h2 id="on-phone">On Phone</h2>
+<p>On android you can use an application called New Pipe, it does whatever I have described above.
+Get it from <a href="https://newpipe.net/">https://newpipe.net/</a></p>
+<h2 id="for-web-browsers">For web browsers:</h2>
+<h3 id="install-u-block-origin">Install U-block Origin</h3>
+<p><a href="https://ublockorigin.com/">https://ublockorigin.com/</a></p>
+<p>U-Block origin is not only an ad blocker, but a wide range content blocker and can be used to remove a variety of elements from a webpage.</p>
+<p>This shall be used not only to remove advertisements, but also recommendations, trending pages and other elements of this platform designed to distract you.</p>
+<p>Add this to your U-Block filters:</p>
+<pre tabindex="0"><code>www.youtube.com###sections
+www.youtube.com###ticker &gt; .ytd-masthead.style-scope
+
+
+!  block recommendations at the end of the video
+! do not forget to disable autoplay at the end of the video. To do that: turn off ublock for a sec and then disable autoplay -&gt; then turn it on again
+
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+
+! block home screen stuff
+www.youtube.com##ytd-browse.ytd-page-manager[page-subtype=&#34;home&#34;]
+
+! block mobile home screen stuff
+m.youtube.com##div[tab-identifier=&#34;FEwhat_to_watch&#34;]
+
+! block recommendations and comments on mobile
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+m.youtube.com##ytm-comment-section-renderer.scwnr-content
+
+! The recommendations that are at the end of a video https://www.youtube.com
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope &gt; .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##ytd-shorts.ytd-page-manager.style-scope  
+</code></pre><h3 id="install-sponsorblock">Install Sponsorblock</h3>
+<p><a href="https://sponsor.ajay.app/">https://sponsor.ajay.app/</a></p>
+<p>A community project where you can contribute yourself, sponsor block automatically skips the non essential parts of a video. Sponsor messages, subscription reminders, filler tangents, recaps etc.</p>
+<h3 id="install-de-arrow">Install De-Arrow</h3>
+<p><a href="https://dearrow.ajay.app/">https://dearrow.ajay.app/</a></p>
+<p>Another tool from the developer of Sponsorblock, it removes the thumbnail video and replaces it with a random screenshot from the video. Practically rendering clickbait useless.</p>
+<h3 id="install-youtube-shorts-redirect">Install YouTube Shorts redirect</h3>
+<p><a href="https://chrome.google.com/webstore/detail/redirect-shorts/">https://chrome.google.com/webstore/detail/redirect-shorts/</a></p>
+<p>Why the short video format is bad -&gt; <a href="https://cipirit.netlify.app/posts/short-video-format">https://cipirit.netlify.app/posts/short-video-format</a></p>
+<p>The short video format is a closed , non consensual, algorithm based, freedom infringing video format.
+Youtube allows you to view shorts as regular videos as well, which prevents you from going into compulsive scrolling loops.</p>
+<h3 id="install-youtube-transcript-generator-optional">Install YouTube Transcript Generator (Optional)</h3>
+<p><a href="https://chrome.google.com/webstore/detail/youtube-transcript-extrac/">https://chrome.google.com/webstore/detail/youtube-transcript-extrac/</a></p>
+<p>Text is a better medium than video or audio. For video essays, or other media where the video does not play an important role its a viable option to read the transcript than to watch the video.</p>
+
+
+
+        <div class="footer">
+
+    <div style="float: left">Powered by <a href="https://gohugo.io/">Hugo</a> with <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. Hosted on GitHub and Netlify.</div>
+
+    <div style="float: right; width: 180px" ><a href="https://512kb.club"><img src="https://512kb.club/assets/images/orange-team.svg"
+               alt="a proud member of the orange team of 512KB club" width="180px" /></a></div>
+</div>
+
+    </div>
+  </body>
+</html>
