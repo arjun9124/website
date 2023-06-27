@@ -22,8 +22,8 @@ theme = "console-theme"
   url = "posts/"
 
   [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+  name = "gallery/"
+  url = "gallery/"
 
   [[params.navlinks]]
   name = "categories/"

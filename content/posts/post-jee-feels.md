@@ -13,10 +13,11 @@ tags:
 ---
 So my first JEE attempt is complete and now I am here, writing a blog post in a (sucessfull) attempt of relaxing and chilling for one day in what seems like months since I have walked without a head full of stress. This I belive must be my reward. The only proof that I need to strengthen this belife is that today, ladies and gentlemen is the day when the south western monsoon finally arrived here in Delhi.
 
-![](pictures/Post_JEE_Feels/image1.jpg)
+<img src="../pictures/Post_JEE_Feels/image1.jpg" style="float: left; width: 50%;">
+<img src="../pictures/Post_JEE_Feels/image2.jpg" style="float: left; width: 50%;">
 
-![Image not found: pictures/Post_JEE_Feels/image2.jpg](pictures/Post_JEE_Feels/image2.jpg "Image not found: pictures/Post_JEE_Feels/image2.jpg")  
-_A pretty good opportunnity to relax_
+
+<center><i>A pretty good opportunnity to relax</i></center>
 
 Ah what could be better than that. And here I am, sitting in my balcony. I havent stepped inside this whole day. Coming to my jee, the test was good. I dont know if it was my lazy arse filling the application form when the deadline was nearing or the randomized center allotment that I got my center alloted to me in the opposite side of Delhi. Which to the delight of my bored JEEtard self came with a one hour long drive across Delhi. Now going out is something that I have rarely done in the last two or three years, and then a drive across most of Delhi that's... overwhelming. Floks, I'd purposefully fill my applications late just so that go out on a little drive. Since the center was located Jamuna paar (across the yamuna) I even got the chance to see the newly built Superior bridge (newly built after a decade or so of construction and delays). Unfortunatley I couldnt click any pics, but I would have loved to. Thankfully the center that was alloted to me was in a decent location with decent facilites by which I mean that they had a little AC in the examination hall.
 
