@@ -1,5 +1,10 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
 
-/*@font-face {
+}
+
+@font-face {
     font-family: 'Roboto Mono';
     src: url('../font/RobotoMono-Regular.ttf') format('truetype');
     font-style: normal;
@@ -26,7 +31,7 @@
     font-style: italic;
     font-weight: 700;
 }
-*/
+
 :root {
     --global-font-size: 16px;
     --global-font-color: #444;
@@ -66,6 +71,7 @@
 .label {
     font-family: var(--font-stack);
 }
+
 
 body {
     font-family: var(--font-stack);
