@@ -1,11 +1,14 @@
-html {zoom: 90%;}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
 
-/*@font-face {
+}
+
+@font-face {
     font-family: 'Roboto Mono';
     src: url('../font/RobotoMono-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: 400;
-    text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -13,7 +16,6 @@ html {zoom: 90%;}
     src: url('../font/RobotoMono-Italic.ttf') format('truetype');
     font-style: italic;
     font-weight: 400;
-    text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -21,7 +23,6 @@ html {zoom: 90%;}
     src: url('../font/RobotoMono-Bold.ttf') format('truetype');
     font-style: normal;
     font-weight: 700;
-    text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -29,9 +30,8 @@ html {zoom: 90%;}
     src: url('../font/RobotoMono-BoldItalic.ttf') format('truetype');
     font-style: italic;
     font-weight: 700;
-    text-rendering: optimizeLegibility;
 }
-*/
+
 :root {
     --global-font-size: 16px;
     --global-font-color: #444;
@@ -71,6 +71,7 @@ html {zoom: 90%;}
 .label {
     font-family: var(--font-stack);
 }
+
 
 body {
     font-family: var(--font-stack);

@@ -3,7 +3,7 @@ title: "Music Reaction Channels"
 date: 2023-06-25T18:33:38+05:30
 slug: music-reaction-channels
 type: posts
-draft: true
+draft: false
 categories:
   - Music
 tags:
@@ -30,7 +30,6 @@ Henry Rollins comes from the era of 80's LA hardcore punk rock. When and where m
 
 Now, these genres are more actively consumed and discovered through the internet rather than having a real life presence in form of local sub-cultures. People no longer have friends that listen to the same sort of music as them, I personally as a listener of "non-pop" genres, have felt this alienation. To people such as these, reaction channels are vendors of parasocial relationships. Single use friends that listen to the same music as you. 
 
-This phenomena, represents the death of rock culture, the shift of music from being the backdrop for a bigger social movement to becoming individualized. It shows us how  society has become and how music has suffered from this change. 
 
 ---
 

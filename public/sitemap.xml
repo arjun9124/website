@@ -4,29 +4,64 @@
     
         
         <url>
+            <loc>https://cipirit.netlify.app/gallery/</loc>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://cipirit.netlify.app/</loc>
-            <lastmod>2023-06-24T14:05:25+05:30</lastmod>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://cipirit.netlify.app/categories/</loc>
-            <lastmod>2023-06-24T14:05:25+05:30</lastmod>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://cipirit.netlify.app/tags/default/</loc>
-            <lastmod>2023-06-24T14:05:25+05:30</lastmod>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://cipirit.netlify.app/categories/default/</loc>
-            <lastmod>2023-06-24T14:05:25+05:30</lastmod>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/gallery/2023-06-28-sanjay-van/</loc>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/tags/</loc>
+            <lastmod>2023-06-28T11:00:28+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/gallery/2023-06-28-dustbin/</loc>
+            <lastmod>2023-06-28T10:58:23+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/gallery/2023-06-28-lal-kot/</loc>
+            <lastmod>2023-06-28T10:52:30+05:30</lastmod>
         </url>
         
     
@@ -40,13 +75,6 @@
         
         <url>
             <loc>https://cipirit.netlify.app/posts/</loc>
-            <lastmod>2023-06-24T14:05:25+05:30</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://cipirit.netlify.app/tags/</loc>
             <lastmod>2023-06-24T14:05:25+05:30</lastmod>
         </url>
         
@@ -74,14 +102,14 @@
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/2023-05-26-machine-block/</loc>
+            <loc>https://cipirit.netlify.app/gallery/2023-05-26-machine-block/</loc>
             <lastmod>2023-05-26T07:35:39+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/aquisition-of-audiophillic-equipment/</loc>
+            <loc>https://cipirit.netlify.app/gallery/aquisition-of-audiophillic-equipment/</loc>
             <lastmod>2023-05-11T19:17:32+05:30</lastmod>
         </url>
         
@@ -130,14 +158,7 @@
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/</loc>
-            <lastmod>2023-05-04T11:38:02+05:30</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://cipirit.netlify.app/photos/neem/</loc>
+            <loc>https://cipirit.netlify.app/gallery/neem/</loc>
             <lastmod>2023-03-05T00:00:00+00:00</lastmod>
         </url>
         
@@ -263,29 +284,35 @@
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/tree/</loc>
+            <loc>https://cipirit.netlify.app/gallery/tree/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/image/</loc>
+            <loc>https://cipirit.netlify.app/gallery/image/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/physics/</loc>
+            <loc>https://cipirit.netlify.app/gallery/physics/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://cipirit.netlify.app/photos/sharatchandra/</loc>
+            <loc>https://cipirit.netlify.app/gallery/sharatchandra/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cipirit.netlify.app/photos/</loc>
         </url>
         
     

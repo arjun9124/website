@@ -14,5 +14,5 @@ Hi, I am Arjun. I live in Delhi, India. I am currently in that akward phase in l
 
 
 ## Contact
-You can find me at Quila Lal Kot every year on 23 September at around 1200 Hours. 
+You can find me at Quila Lal Kot every year on 23 September at around 1200 Hours.
 
