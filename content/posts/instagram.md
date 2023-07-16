@@ -1,7 +1,7 @@
 ---
 title: "Instagram"
 date: 2023-07-07T22:00:21+05:30
-slug: 2023-07-07-instagram
+slug: instagram
 type: posts
 draft: true
 categories:

@@ -6,7 +6,16 @@
     <description>Recent content in Categories on arjun&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 11:00:28 +0530</lastBuildDate><atom:link href="https://cipirit.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 11:06:35 +0530</lastBuildDate><atom:link href="https://cipirit.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edits</title>
+      <link>https://cipirit.netlify.app/categories/edits/</link>
+      <pubDate>Sun, 16 Jul 2023 11:06:35 +0530</pubDate>
+      
+      <guid>https://cipirit.netlify.app/categories/edits/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>default</title>
       <link>https://cipirit.netlify.app/categories/default/</link>
@@ -17,20 +26,20 @@
     </item>
     
     <item>
+      <title>Music</title>
+      <link>https://cipirit.netlify.app/categories/music/</link>
+      <pubDate>Sun, 25 Jun 2023 18:33:38 +0530</pubDate>
+      
+      <guid>https://cipirit.netlify.app/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Art</title>
       <link>https://cipirit.netlify.app/categories/art/</link>
       <pubDate>Fri, 26 May 2023 07:35:39 +0530</pubDate>
       
       <guid>https://cipirit.netlify.app/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://cipirit.netlify.app/categories/music/</link>
-      <pubDate>Thu, 11 May 2023 19:17:32 +0530</pubDate>
-      
-      <guid>https://cipirit.netlify.app/categories/music/</guid>
       <description></description>
     </item>
     

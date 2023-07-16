@@ -14,3 +14,6 @@ tags:
 ---
 
 So, in my regular fasion I made some edits of Lal Kot.
+
+<img src="image1.jpg">
+<img src="image2.jpg">
