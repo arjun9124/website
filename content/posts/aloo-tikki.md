@@ -1,7 +1,7 @@
 ---
 title: "Aloo Tikki"
 date: 2023-07-31T11:19:53+05:30
-slug: 2023-07-31-aloo-tikki
+slug: aloo-tikki
 type: posts
 draft: false
 categories:
