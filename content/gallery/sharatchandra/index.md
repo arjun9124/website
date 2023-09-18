@@ -1,7 +1,7 @@
 
 +++
-image = "sharatchandra.jpg"
-date = "2020-01-21"
+image = "image.jpg"
+date = "2021-01-21"
 title = "Sharatchandra"
 type = "gallery"
 +++

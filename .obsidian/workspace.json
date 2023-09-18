@@ -6,7 +6,7 @@
       {
         "id": "55317c7a0b4f569b",
         "type": "tabs",
-        "dimension": 49.99999999999999,
+        "dimension": 50,
         "children": [
           {
             "id": "a4f5ca4cf5d79b06",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Disconnect.md",
+                "file": "content/gallery/sharatchandra/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,8 +59,8 @@
                     "useWin32Conhost": true
                   },
                   "serial": {
-                    "columns": 79,
-                    "data": "Microsoft Windows [Version 10.0.19045.3324]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>hugo new posts/Disconnect.md\r\nContent \"D:\\\\Projects\\\\website\\\\content\\\\posts\\\\Disconnect.md\" created\r\n\r\nD:\\Projects\\website>\r\n * Restored history at Sun Sep 10 2023 13:27:12 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3324]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>hugo\r\nStart building sites … \r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n^C\r\nD:\\Projects\\website>hugo server -D\r\nWatching for changes in D:\\Projects\\website\\{archetypes,content,layouts,static,themes}\r\nWatching for config changes in D:\\Projects\\website\\config.toml\r\nStart building sites …\r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n\r\n                   | EN   \r\n-------------------+----- \r\n  Pages            | 96   \r\n  Paginator pages  |  0   \r\n  Non-page files   | 30   \r\n  Static files     |  8   \r\n  Processed images | 17   \r\n  Aliases          |  0   \r\n  Sitemaps         |  1   \r\n  Cleaned          |  0   \r\n\r\nBuilt in 1097 ms\r\nEnvironment: \"development\"\r\nServing pages from memory \r\nRunning in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender\r\nWeb Server is available at http://localhost:1313/ (bind address 127.0.0.1)\r\nPress Ctrl+C to stop\r\n\r\n * Restored history at Mon Sep 18 2023 08:45:58 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>git add -A\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/graph.json', LF will be replaced by [main 9908b94] main\r\n 14 files changed, 751 insertions(+), 35 deletions(-)\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/styles.css\r\n create mode 100644 2023-09-08.md\r\n create mode 100644 Untitled 1.canvas\r\n create mode 100644 Untitled.canvas\r\n create mode 100644 Untitled.md\r\nCompressing objects: 100% (17/17), done.\r\nWriting objects: 100% (18/18), 84.04 KiB | 9.34 MiB/s, done.\r\nbranch 'main' set up to track 'origin/main'.\r\n\r\nD:\\Projects\\website>git push -u origin main\r\nEnumerating objects: 28, done.f 'content/posts/Disconnect.md', LF will be repla\r\nced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'content/posts/Untitled.md', LF will be replace\r\nd by CRLF the next time Git touches it\r\n\r\nD:\\Projects\\website>git commit -m main\r\n\r\n\u001b[8A\u001b[20C",
+                    "columns": 61,
+                    "data": "Microsoft Windows [Version 10.0.19045.3324]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>hugo new posts/Disconnect.md\r\nContent \"D:\\\\Projects\\\\website\\\\content\\\\posts\\\\Disconnect.md\" created\r\n\r\nD:\\Projects\\website>\r\n * Restored history at Sun Sep 10 2023 13:27:12 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3324]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>hugo\r\nStart building sites … \r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n^C\r\nD:\\Projects\\website>hugo server -D\r\nWatching for changes in D:\\Projects\\website\\{archetypes,content,layouts,static,themes}\r\nWatching for config changes in D:\\Projects\\website\\config.toml\r\nStart building sites …\r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n\r\n                   | EN   \r\n-------------------+----- \r\n  Pages            | 96   \r\n  Paginator pages  |  0   \r\n  Non-page files   | 30   \r\n  Static files     |  8   \r\n  Processed images | 17   \r\n  Aliases          |  0   \r\n  Sitemaps         |  1   \r\n  Cleaned          |  0   \r\n\r\nBuilt in 1097 ms\r\nEnvironment: \"development\"\r\nServing pages from memory \r\nRunning in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender\r\nWeb Server is available at http://localhost:1313/ (bind address 127.0.0.1)\r\nPress Ctrl+C to stop\r\n\r\n * Restored history at Mon Sep 18 2023 08:45:58 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>git add -A\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/graph.json', LF will be replaced by [main 9908b94] main\r\n 14 files changed, 751 insertions(+), 35 deletions(-)\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/styles.css\r\n create mode 100644 2023-09-08.md\r\n create mode 100644 Untitled 1.canvas\r\n create mode 100644 Untitled.canvas\r\n create mode 100644 Untitled.md\r\nCompressing objects: 100% (17/17), done.\r\nWriting objects: 100% (18/18), 84.04 KiB | 9.34 MiB/s, done.\r\nbranch 'main' set up to track 'origin/main'.\r\n\r\nD:\\Projects\\website>git push -u origin main\r\n * Restored history at Mon Sep 18 2023 19:21:35 GMT+0530 (India Standard Time)a\r\nced by CRLF the next time Git touches it\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>git add -a\r\nerror: unknown switch `a'\r\nusage: git add [<options>] [--] <pathspec>...\r\n\r\n    -n, --dry-run         dry run\r\n    -v, --verbose         be verbose\r\n\r\n    -i, --interactive     interactive picking\r\n    -p, --patch           select hunks interactively\r\n    -e, --edit            edit current diff and apply\r\n    -f, --force           allow adding otherwise ignored files\r\n    -u, --update          update tracked files\r\n    --renormalize         renormalize EOL of tracked files (implies -u)\r\n    -N, --intent-to-add   record only the fact that the path will be added later\r\n    -A, --all             add changes from all tracked and untracked files\r\n    --ignore-removal      ignore paths removed in the working tree (same as --no-all)\r\n    --refresh             don't add, only refresh the index\r\n    --ignore-errors       just skip files which cannot be added because of errors\r\n    --ignore-missing      check if - even missing - files are ignored in dry run\r\n    --sparse              allow updating entries outside of the sparse-checkout cone\r\n    --chmod (+|-)x        override the executable bit of the listed files\r\n    --pathspec-from-file <file>\r\n                          read pathspec from file\r\n    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character\r\n\r\n\r\nD:\\Projects\\website>git add -A\r\n",
                     "rows": 39
                   }
                 }
@@ -72,12 +72,12 @@
         "currentTab": 2
       },
       {
-        "id": "155acd318805f094",
+        "id": "f858b7214a8ca4d8",
         "type": "tabs",
-        "dimension": 49.99999999999999,
+        "dimension": 50,
         "children": [
           {
-            "id": "16840692d119113e",
+            "id": "79ffd79990aa625d",
             "type": "leaf",
             "state": {
               "type": "hugo-preview-view",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "7e688bdcf25ffeab",
@@ -221,6 +220,9 @@
   },
   "active": "8cfdbe4057e548d5",
   "lastOpenFiles": [
+    "content/gallery/sharatchandra/index.md",
+    "resources/_gen/images/gallery/sharatchandra/image_hu92e14726cefcea7f8ab42bec6afc06d2_35862_400x0_resize_q75_box.jpg",
+    "content/gallery/sharatchandra/image.jpg",
     "content/posts/Disconnect.md",
     "content/posts/aloo-tikki.md",
     "content/posts/casio-db36-inverted-display-mod.md",
@@ -250,8 +252,6 @@
     "content/posts/the-only-day-your-dad.md",
     "resources/_gen/images/gallery/aquisition-of-audiophillic-equipment/image_hu9f7de5515c8fe94aca2a7301b804ab34_96590_600x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/machine-block/image_hu368c91ae43ea8920e0b65e5651c1f07b_16985_600x0_resize_q75_box.jpg",
-    "resources/_gen/images/gallery/lal-kot/image_hudae5c5ce89b9cd625563e1a42b22403b_3852118_600x0_resize_q75_box.jpg",
-    "resources/_gen/images/gallery/tree/indiagate_hu5da8ea20ad731af4ed4e006ae9ae2096_2551576_400x0_resize_box_3.png",
     "resources/_gen/images/gallery/tree",
     "resources/_gen/images/gallery/lal-kot",
     "resources/_gen/images/gallery/neem",
@@ -261,6 +261,4 @@
     "resources/_gen/images/gallery/image",
     "resources/_gen/images/gallery/aquisition-of-audiophillic-equipment",
     "resources/_gen/images/gallery/machine-block",
-    "resources/_gen/images/gallery/dustbin"
-  ]
-}
+    "resources/_gen/images/gallery/dustbin
