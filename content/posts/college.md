@@ -1,13 +1,15 @@
 ---
-title: "College"
+title: College
 date: 2023-01-28T17:31:10+05:30
 slug: college
 type: posts
 draft: false
 categories:
-  - default
+  - Life/Zindagi/General
 tags:
-  - default
+  - College
+  - Ramblings
+  - Life
 ---
 ## A series of (incoherent) thoughts I have had since joining college.
 

@@ -1,7 +1,14 @@
 ---
-title: "Casio DB-36 Inverted Display Mod"
+title: Casio DB-36 Inverted Display Mod
 date: 2023-05-05T10:21:20+05:30
 draft: false
+type: posts
+categories: 
+tags:
+  - Matrix
+  - Pixel
+  - Retro
+  - Consoom
 ---
 I had been meaning to try an inverted display mod on one of my Casio watches, and now finally I had the time and money to get a polarizing filer and do it and see for myself......
 
