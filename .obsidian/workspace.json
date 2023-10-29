@@ -19,9 +19,11 @@
             "id": "73dd0d2829d6dede",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg"
+                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
+                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
+                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg"
+                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md"
               }
             }
           },
@@ -163,13 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aaefbf8ac76cdea",
+  "active": "73dd0d2829d6dede",
   "lastOpenFiles": [
+    "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_400x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_600x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material",
     "content/gallery/aquisition-of-bibilophilic-material/index.md",
-    "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
     "content/posts/aloo-tikki.md",
     "content/gallery/dustbin/index.md",
     "content/gallery/sharatchandra/index.md",
