@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "73dd0d2829d6dede",
+            "id": "13fdc131ac8524bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+                "file": "content/gallery/ladder/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+                "file": "content/gallery/ladder/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+                "file": "content/gallery/ladder/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md"
+                "file": "content/gallery/ladder/index.md"
               }
             }
           },
@@ -165,13 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73dd0d2829d6dede",
+  "active": "13fdc131ac8524bd",
   "lastOpenFiles": [
+    "resources/_gen/images/gallery/ladder/image_hueb91c28eb092a016f5ca5315969a3c80_57238_400x0_resize_q75_box.jpg",
+    "resources/_gen/images/gallery/ladder/image_hueb91c28eb092a016f5ca5315969a3c80_57238_600x0_resize_q75_box.jpg",
+    "resources/_gen/images/gallery/ladder",
+    "content/gallery/ladder/image.jpg",
+    "content/gallery/ladder/WhatsApp Image 2023-10-29 at 07.54.24_5b8ce868.jpg",
+    "content/gallery/aquisition-of-bibilophilic-material/index.md",
     "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_400x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_600x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/aquisition-of-bibilophilic-material",
-    "content/gallery/aquisition-of-bibilophilic-material/index.md",
     "content/posts/aloo-tikki.md",
     "content/gallery/dustbin/index.md",
     "content/gallery/sharatchandra/index.md",
@@ -202,18 +207,13 @@
     "resources/_gen/images/gallery/while-my-monsoon-gently-retreats/image_hu19d4805010c4631b4b9900c7198e3d13_653500_400x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/while-my-monsoon-gently-retreats",
     "content/gallery/while-my-monsoon-gently-retreats",
-    "content/gallery/machine-block/image.jpg",
-    "content/gallery/sharatchandra/image.jpg",
     "content/gallery/image/index.md",
     "content/gallery/lal-kot-gaussian-edit/index.md",
-    "content/gallery/physics/physics.bak.jpg",
-    "resources/_gen/images/gallery/sharatchandra/image_hu92e14726cefcea7f8ab42bec6afc06d2_35862_400x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/tree",
     "resources/_gen/images/gallery/lal-kot",
     "resources/_gen/images/gallery/neem",
     "resources/_gen/images/gallery/lal-kot-gaussian-edit",
     "resources/_gen/images/gallery/sharatchandra",
-    "resources/_gen/images/gallery/sanjay-van",
-    "resources/_gen/images/gallery/image"
+    "resources/_gen/images/gallery/sanjay-van"
   ]
 }
