@@ -4,97 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "55317c7a0b4f569b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4f5ca4cf5d79b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/gallery/sharatchandra/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddd372f534beb03d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "8cfdbe4057e548d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\Projects\\website",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 61,
-                    "data": "Microsoft Windows [Version 10.0.19045.3324]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>hugo new posts/Disconnect.md\r\nContent \"D:\\\\Projects\\\\website\\\\content\\\\posts\\\\Disconnect.md\" created\r\n\r\nD:\\Projects\\website>\r\n * Restored history at Sun Sep 10 2023 13:27:12 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3324]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>hugo\r\nStart building sites … \r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n^C\r\nD:\\Projects\\website>hugo server -D\r\nWatching for changes in D:\\Projects\\website\\{archetypes,content,layouts,static,themes}\r\nWatching for config changes in D:\\Projects\\website\\config.toml\r\nStart building sites …\r\nhugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d windows/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio\r\n\r\n\r\n                   | EN   \r\n-------------------+----- \r\n  Pages            | 96   \r\n  Paginator pages  |  0   \r\n  Non-page files   | 30   \r\n  Static files     |  8   \r\n  Processed images | 17   \r\n  Aliases          |  0   \r\n  Sitemaps         |  1   \r\n  Cleaned          |  0   \r\n\r\nBuilt in 1097 ms\r\nEnvironment: \"development\"\r\nServing pages from memory \r\nRunning in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender\r\nWeb Server is available at http://localhost:1313/ (bind address 127.0.0.1)\r\nPress Ctrl+C to stop\r\n\r\n * Restored history at Mon Sep 18 2023 08:45:58 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>git add -A\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/graph.json', LF will be replaced by [main 9908b94] main\r\n 14 files changed, 751 insertions(+), 35 deletions(-)\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-auto-link-title/styles.css\r\n create mode 100644 2023-09-08.md\r\n create mode 100644 Untitled 1.canvas\r\n create mode 100644 Untitled.canvas\r\n create mode 100644 Untitled.md\r\nCompressing objects: 100% (17/17), done.\r\nWriting objects: 100% (18/18), 84.04 KiB | 9.34 MiB/s, done.\r\nbranch 'main' set up to track 'origin/main'.\r\n\r\nD:\\Projects\\website>git push -u origin main\r\n * Restored history at Mon Sep 18 2023 19:21:35 GMT+0530 (India Standard Time)a\r\nced by CRLF the next time Git touches it\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\nD:\\Projects\\website>\r\n\r\nD:\\Projects\\website>hugo new gallery/clouds/index.md                     \r\nContent \"D:\\\\Projects\\\\website\\\\content\\\\gallery\\\\clouds\\\\index.md\" created\r\n\r\nD:\\Projects\\website>\r\n * Restored history at Tue Sep 19 2023 09:16:52 GMT+0530 (India Standard Time)\r\n\r\nMicrosoft Windows [Version 10.0.19045.3448]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Projects\\website>git add -A\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[34A",
-                    "rows": 39
-                  }
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ac57faa7d782155a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/gallery/dustbin/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "968e566b0bf89e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/aloo-tikki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "3f2a86328023abdd",
         "type": "tabs",
         "children": [
@@ -105,8 +14,19 @@
               "type": "hugo-preview-view",
               "state": {}
             }
+          },
+          {
+            "id": "73dd0d2829d6dede",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/gallery/aquisition-of-bibilophilic-material/image.jpg"
+              }
             }
           },
           {
@@ -236,13 +160,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "terminal:Open terminal": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8cfdbe4057e548d5",
+  "active": "1aaefbf8ac76cdea",
   "lastOpenFiles": [
+    "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_400x0_resize_q75_box.jpg",
+    "resources/_gen/images/gallery/aquisition-of-bibilophilic-material/image_hu0aefc3cdb646cad9635e3bf935f27ee4_3023796_600x0_resize_q75_box.jpg",
+    "resources/_gen/images/gallery/aquisition-of-bibilophilic-material",
+    "content/gallery/aquisition-of-bibilophilic-material/index.md",
+    "content/gallery/aquisition-of-bibilophilic-material/image.jpg",
     "content/posts/aloo-tikki.md",
+    "content/gallery/dustbin/index.md",
+    "content/gallery/sharatchandra/index.md",
     "content/posts/Disconnect.md",
     "content/posts/make-youtube-distraction-free.md",
     "content/posts/pixel-art.md",
@@ -270,25 +200,18 @@
     "resources/_gen/images/gallery/while-my-monsoon-gently-retreats/image_hu19d4805010c4631b4b9900c7198e3d13_653500_400x0_resize_q75_box.jpg",
     "resources/_gen/images/gallery/while-my-monsoon-gently-retreats",
     "content/gallery/while-my-monsoon-gently-retreats",
-    "content/gallery/dustbin/index.md",
     "content/gallery/machine-block/image.jpg",
-    "content/gallery/sharatchandra/index.md",
     "content/gallery/sharatchandra/image.jpg",
     "content/gallery/image/index.md",
     "content/gallery/lal-kot-gaussian-edit/index.md",
-    "content/gallery/machine-block/index.md",
-    "content/gallery/neem/index.md",
     "content/gallery/physics/physics.bak.jpg",
     "resources/_gen/images/gallery/sharatchandra/image_hu92e14726cefcea7f8ab42bec6afc06d2_35862_400x0_resize_q75_box.jpg",
-    "content/posts/pictures/coomer.jpg",
-    "public/about/pfpiguess.gif",
     "resources/_gen/images/gallery/tree",
     "resources/_gen/images/gallery/lal-kot",
     "resources/_gen/images/gallery/neem",
     "resources/_gen/images/gallery/lal-kot-gaussian-edit",
     "resources/_gen/images/gallery/sharatchandra",
     "resources/_gen/images/gallery/sanjay-van",
-    "resources/_gen/images/gallery/image",
-    "resources/_gen/images/gallery/aquisition-of-audiophillic-equipment"
+    "resources/_gen/images/gallery/image"
   ]
 }
