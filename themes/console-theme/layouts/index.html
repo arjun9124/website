@@ -7,6 +7,29 @@ Console is a minimal, responsive and light theme for Hugo inspired by Linux cons
 </p>
 <br/>
 
+<h1>Latest thoughts</h1>
+
+<div class="toughts-list">
+{{ with .Site.GetPage "/toughts" }}
+    {{ range first 2 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="tought">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+{{ with .Param "tags" }}
+  {{ range $index, $tag := (. | sort) }}
+  {{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
+    <a href="{{ .Permalink }}">#{{ $tag | urlize }}</a>
+  {{ end }}
+  {{ end }}
+{{ end }}
+
 <h1>Latest posts</h1>
 
 <div class="posts-list">

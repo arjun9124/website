@@ -1,13 +1,11 @@
 ---
-image: "image.jpg"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 slug: {{ now.Format "2006-01-02" }}-{{ .Name | urlize }}
-type:s "gallery"
-title: "{{ replace .Name "-" " " | title }}"
+type: thoughts
 draft: true
 categories:
-  - default
+  - thoughts
 tags:
-  - default
+  - thoughts
 ---
-
