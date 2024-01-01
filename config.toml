@@ -17,6 +17,10 @@ theme = "console-theme"
   name = "about/"
   url = "about/"
 
+[[params.navlinks]]
+  name = "thoughts/"
+  url = "thoughts/"
+
   [[params.navlinks]]
   name = "posts/"
   url = "posts/"
@@ -25,9 +29,6 @@ theme = "console-theme"
   name = "gallery/"
   url = "gallery/"
 
-  [[params.navlinks]]
-  name = "categories/"
-  url = "categories/"
 
 
 
