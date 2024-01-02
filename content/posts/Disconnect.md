@@ -3,11 +3,11 @@ title: Disconnect
 date: 2023-09-08T13:32:11+05:30
 slug: disconnect
 type: posts
-draft: true
+draft: false
 categories:
 
 - Life/Zindagi/General
-  
+
 tags:
 
 - Ramblings
@@ -31,7 +31,6 @@ _Music, Mathematics and The Matrix_
     Don't want to see too much
     It makes me see too much
     Sometimes I'd rather be blind
-    
 
 </center>
 
