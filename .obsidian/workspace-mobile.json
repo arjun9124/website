@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+                "file": "content/gallery/city/index.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "76e6e2be7db93e62",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/gallery/city/image.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+            "file": "content/gallery/city/image.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/gallery/aquisition-of-bibilophilic-material/index.md",
+            "file": "content/gallery/city/image.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/gallery/aquisition-of-bibilophilic-material/index.md"
+            "file": "content/gallery/city/image.jpg"
           }
         }
       }
@@ -141,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f68eb27b93ce8de",
+  "active": "e12650f06e131ea8",
   "lastOpenFiles": [
-    "content/gallery/dustbin/index.md",
+    "content/gallery/city/index.md",
+    "content/gallery/city/image.jpg",
     "content/gallery/aquisition-of-bibilophilic-material/index.md",
+    "content/gallery/dustbin/index.md",
     "README.md",
     "content/gallery/aquisition-of-bibilophilic-material/image.jpg.jpg",
     "content/posts/pictures/PXL_20231021_064836047 2.jpg",
