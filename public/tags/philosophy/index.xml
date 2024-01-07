@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on arjun&#39;s webpage</title>
+    <link>https://cipirit.netlify.app/tags/philosophy/</link>
+    <description>Recent content in Philosophy on arjun&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 08:16:11 +0530</lastBuildDate>
+    <atom:link href="https://cipirit.netlify.app/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mr. Sisyphus</title>
+      <link>https://cipirit.netlify.app/gallery/mr-sisyphus/</link>
+      <pubDate>Thu, 14 Dec 2023 08:16:11 +0530</pubDate>
+      <guid>https://cipirit.netlify.app/gallery/mr-sisyphus/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

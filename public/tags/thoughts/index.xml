@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on arjun&#39;s webpage</title>
+    <link>https://cipirit.netlify.app/tags/thoughts/</link>
+    <description>Recent content in thoughts on arjun&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 14:07:07 +0530</lastBuildDate>
+    <atom:link href="https://cipirit.netlify.app/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whimsymaxxing</title>
+      <link>https://cipirit.netlify.app/thoughts/2024-01-01-whimsymaxxing/</link>
+      <pubDate>Mon, 01 Jan 2024 14:07:07 +0530</pubDate>
+      <guid>https://cipirit.netlify.app/thoughts/2024-01-01-whimsymaxxing/</guid>
+      <description>Whimsymaxxing, This new trend of people putting their childhood photos in their profile pictures is another form of whimsymaxxing. An attempt to return to their untainted child like creativity.</description>
+    </item>
+  </channel>
+</rss>
