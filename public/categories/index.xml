@@ -6,20 +6,27 @@
     <description>Recent content in Categories on arjun&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 12:46:15 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 12:53:02 +0530</lastBuildDate>
     <atom:link href="https://cipirit.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>default</title>
-      <link>https://cipirit.netlify.app/categories/default/</link>
-      <pubDate>Sun, 07 Jan 2024 12:46:15 +0530</pubDate>
-      <guid>https://cipirit.netlify.app/categories/default/</guid>
-      <description></description>
-    </item>
     <item>
       <title>thoughts</title>
       <link>https://cipirit.netlify.app/categories/thoughts/</link>
-      <pubDate>Mon, 01 Jan 2024 14:07:07 +0530</pubDate>
+      <pubDate>Fri, 26 Jan 2024 12:53:02 +0530</pubDate>
       <guid>https://cipirit.netlify.app/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>high ☕</title>
+      <link>https://cipirit.netlify.app/categories/high/</link>
+      <pubDate>Sun, 21 Jan 2024 12:50:19 +0530</pubDate>
+      <guid>https://cipirit.netlify.app/categories/high/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://cipirit.netlify.app/categories/photography/</link>
+      <pubDate>Wed, 03 Jan 2024 03:00:00 +0530</pubDate>
+      <guid>https://cipirit.netlify.app/categories/photography/</guid>
       <description></description>
     </item>
     <item>
@@ -30,10 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Photography</title>
-      <link>https://cipirit.netlify.app/categories/photography/</link>
-      <pubDate>Wed, 04 Oct 2023 20:59:39 +0530</pubDate>
-      <guid>https://cipirit.netlify.app/categories/photography/</guid>
+      <title>default</title>
+      <link>https://cipirit.netlify.app/categories/default/</link>
+      <pubDate>Sun, 29 Oct 2023 08:39:24 +0530</pubDate>
+      <guid>https://cipirit.netlify.app/categories/default/</guid>
       <description></description>
     </item>
     <item>
