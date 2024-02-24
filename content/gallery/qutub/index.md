@@ -1,13 +1,19 @@
 ---
 image: "image.jpg"
-date: 2024-02-24T21:08:11+05:30
-slug: 2024-02-24-qutub
+date: 2024-02-11T21:08:11+05:30
+slug: 2024-02-11-qutub
 type: "gallery"
 title: "Qutub"
-draft: true
+draft: false
 categories:
-  - default
+  - Life/Zindagi/General
 tags:
-  - default
+  - photography
+  - delhi
 ---
+
+
+
+even if your friend might be in a different place in life than you, you can still be on the same page with them. 
+
 
