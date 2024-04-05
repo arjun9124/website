@@ -1,5 +1,4 @@
 ---
-
 title: "About"
 date: 2023-05-04T20:21:32+05:30
 draft: false
@@ -11,7 +10,9 @@ Hi, I am Arjun. I live in Delhi, India. I am currently in that awkward phase in 
 ## What's the deal with this website ?
 
 * It's [minimalist.](https://motherfuckingwebsite.com/) Or so it seems. 
+
 * It's my medium of self expression on the web.
+
 * It's where I post my stuff, I don't have any social media accounts. 
   
   ## Contact
