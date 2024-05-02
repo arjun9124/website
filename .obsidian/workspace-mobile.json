@@ -23,9 +23,11 @@
             "id": "76e6e2be7db93e62",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/gallery/city/image.jpg"
+                "file": "content/gallery/rocket/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,7 +83,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       },
@@ -106,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/gallery/city/image.jpg",
+            "file": "content/gallery/rocket/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/gallery/city/image.jpg",
+            "file": "content/gallery/rocket/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/gallery/city/image.jpg"
+            "file": "content/gallery/rocket/index.md"
           }
         }
       }
@@ -152,10 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e12650f06e131ea8",
+  "active": "76e6e2be7db93e62",
   "lastOpenFiles": [
-    "content/gallery/city/index.md",
+    "content/gallery/rocket/image.jpg",
+    "content/gallery/rocket/index.md",
+    "content/gallery/qutub/index.md",
+    "content/gallery/rocket/WhatsApp Image 2024-03-03 at 10.06.16_6d6d7393.jpg",
     "content/gallery/city/image.jpg",
+    "content/gallery/city/index.md",
     "content/gallery/aquisition-of-bibilophilic-material/index.md",
     "content/gallery/dustbin/index.md",
     "README.md",
