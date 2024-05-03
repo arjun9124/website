@@ -1,9 +1,9 @@
 ---
-title: "Pyramid"
+title: Pyramid
 date: 2024-04-05T21:20:41+05:30
 slug: pyramid
 type: thoughts
-draft: false
+draft: true
 categories:
   - thoughts
 tags:

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/gallery/rocket/index.md",
+                "file": "content/gallery/gulmohar/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/gallery/rocket/index.md",
+            "file": "content/gallery/gulmohar/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/gallery/rocket/index.md",
+            "file": "content/gallery/gulmohar/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/gallery/rocket/index.md"
+            "file": "content/gallery/gulmohar/index.md"
           }
         }
       }
@@ -156,10 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76e6e2be7db93e62",
+  "active": "e12650f06e131ea8",
   "lastOpenFiles": [
-    "content/gallery/rocket/image.jpg",
+    "[[.md",
+    "content/gallery/gulmohar/index.md",
+    "content/gallery/gulmohar/image.png",
+    "Untitled",
+    "content/thoughts/ballpoint.md",
+    "content/gallery/gulmohar",
+    "content/thoughts/kutte.md",
+    "content/thoughts/pretentious-markets.md",
+    "content/thoughts/pyramid.md",
+    "content/thoughts/whimsymaxxing.md",
     "content/gallery/rocket/index.md",
+    "content/about/_index.md",
+    "content/gallery/rocket/image.jpg",
     "content/gallery/qutub/index.md",
     "content/gallery/rocket/WhatsApp Image 2024-03-03 at 10.06.16_6d6d7393.jpg",
     "content/gallery/city/image.jpg",
@@ -170,7 +181,6 @@
     "content/gallery/aquisition-of-bibilophilic-material/image.jpg.jpg",
     "content/posts/pictures/PXL_20231021_064836047 2.jpg",
     "content/posts/pictures/PXL_20231021_064836047 1.jpg",
-    "Untitled",
     "Pasted image 20230731111206.png",
     "Pasted image 20230731111144.png",
     "2023-09-08.md",

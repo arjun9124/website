@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-Hi, I am Arjun. I live in Delhi, India. I am currently in that awkward phase in life where you have spent about a year in college and haven't entirely figured out what to do, are anxious about the direction you are taking, a. I am a student of Engineering.  
+Hi, I am Arjun. I live in Delhi, India. I am currently in that awkward phase in life where you have spent about two years in college and haven't entirely figured out what to do, are anxious about the direction you are taking, and are pretty sure you've messed up somewhere down the line and it is getting back to you. I am a student of Engineering.  
 
 ## What's the deal with this website ?
 
@@ -15,8 +15,8 @@ Hi, I am Arjun. I live in Delhi, India. I am currently in that awkward phase in 
 
 * It's where I post my stuff, I don't have any social media accounts. 
   
-  ## Contact
+## Contact
   
-  You can find me at Quila Lal Kot every year on 23 September at around 1200 Hours.
+  You can find me at Quila Lal Kot every year on 23 September at around 1200 Hours. 
 
 
