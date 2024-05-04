@@ -52,13 +52,30 @@ Hey there, I am Arjun. Welcome to my webpage. <a href="about/">(more)</a>
 <div class="image-grid">
 {{ with .Site.GetPage "/gallery" }}
     {{ range first 6 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "600x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
+        
+{{ if and (isset .Params "image") .Params.image }}
+            <a href="{{ .Permalink }}" title="{{ .Title }}">
+            {{ $image := .Page.Resources.GetMatch .Params.image }}
+            {{ with $image }}
+               {{ $opts := dict
+                    "method" "ClusteredDot4x4" 
+                    "colors" (slice "FFFFFF" "2F4F4F" ) 
+                    "strength" 0.85
+                }}
+
+  {{ $filters := slice
+    (images.Process "resize 800x")
+    (images.Dither $opts)
+    (images.Process "png")
+  }}
+  {{ with . | images.Filter $filters }}
+    <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+  {{ end }}
+            {{end}}
+            </a>
+        {{ end }}
+
+
     {{ end }}
 {{ end }}
 </div>
