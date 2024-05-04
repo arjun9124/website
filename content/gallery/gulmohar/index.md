@@ -1,5 +1,5 @@
 ---
-image: image.png
+image: image.jpg
 date: 2024-04-23T17:00:00+05:30
 slug: 2024-04-23-gulmohar
 type: gallery
