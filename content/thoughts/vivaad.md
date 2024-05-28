@@ -1,5 +1,5 @@
 ---
-title: "Vivaad"
+title: "विवाद"
 date: 2024-05-28T20:40:17+05:30
 slug: 2024-05-28-vivaad
 type: thoughts
